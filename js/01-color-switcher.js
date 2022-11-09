@@ -12,11 +12,12 @@ let colorChangeInterval;
 
 startBtn.addEventListener("click", () => {
     colorChangeInterval = setInterval(() => {
-        getRandomHexColor;
+        body.style.backgroundColor = getRandomHexColor;
         startBtn.disabled = true;
     }, 1000);
 });
 
 stopBtn.addEventListener("click", () => {
     clearTimeuot(colorChangeInterval);
+    startBtn.disabled = false;
 });
