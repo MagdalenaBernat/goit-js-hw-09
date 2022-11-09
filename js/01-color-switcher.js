@@ -20,6 +20,6 @@ startBtn.addEventListener("click", () => {
 });
 
 stopBtn.addEventListener("click", () => {
-    clearTimeuot(colorChangeInterval);
+    clearInterval(colorChangeInterval);
     startBtn.disabled = false;
 });
