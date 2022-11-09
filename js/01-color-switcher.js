@@ -1,19 +1,22 @@
 "use strict";
 
-const startBtn = document.querySelector('button[type="button"]data-start');
-const stopBtn = document.querySelector('button[type="button"]data-stop');
-    
+const startBtn = document.querySelector('button[data-start]');
+const stopBtn = document.querySelector('button[data-stop]');
+const body = document.querySelector('body');  
+
 function getRandomHexColor() {
     return `#${Math.floor(Math.random() * 16777215).toString(16)}`;
 };
 
-let myTimer; 
+let colorChangeInterval; 
 
 startBtn.addEventListener("click", () => {
-    myTimer = setTimeout(getRandomHexColor, 1000);
-    startBtn.disabled = true;
+    colorChangeInterval = setInterval(() => {
+        getRandomHexColor;
+        startBtn.disabled = true;
+    }, 1000);
 });
 
 stopBtn.addEventListener("click", () => {
-    clearTimeuot(myTimer);
+    clearTimeuot(colorChangeInterval);
 });
