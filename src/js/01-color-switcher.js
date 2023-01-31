@@ -19,7 +19,7 @@ startBtn.addEventListener("click", () => {
 });
 
 stopBtn.addEventListener("click", () => {
-    let stopColorSwitcher = clearInterval(colorChangeInterval);
+    const stopColorSwitcher = clearInterval(colorChangeInterval);
     startBtn.disabled = false;
     stopBtn.disabled = true;
 });
