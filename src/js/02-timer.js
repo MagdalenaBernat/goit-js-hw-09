@@ -19,6 +19,11 @@ const options = {
   },
 };
 
+input.addEventListener("click", () => {
+  flatpickr({ days, hours, minutes, seconds }, options); 
+
+});
+
 
 
 
