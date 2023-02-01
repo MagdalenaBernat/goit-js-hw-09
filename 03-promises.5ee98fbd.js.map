@@ -1,1 +1,0 @@
-{"mappings":"YAAA,Y","sources":["src/js/03-promises.js"],"sourcesContent":["\"use strict\";\n\nfunction createPromise(position, delay) {\n  const shouldResolve = Math.random() > 0.3;\n  if (shouldResolve) {\n    // Fulfill\n  } else {\n    // Reject\n  }\n}\n"],"names":[],"version":3,"file":"03-promises.5ee98fbd.js.map"}
