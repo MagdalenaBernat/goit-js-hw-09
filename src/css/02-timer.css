@@ -1,0 +1,44 @@
+body {
+    /* background-color: rgb(204,204,255); */
+     /* background-color: rgb(229,204,255); */
+    background-color: rgb(215,212,228);
+    margin-left: 35vw;
+    margin-top: 10vw;
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; */
+}
+
+body input#datetime-picker {
+    font-size: 20px;
+    height: 35px;
+    text-align: center;
+    background-color: rgb(189,186,203);
+    color: rgb(105,92,174);
+    border-radius: 4px;
+    border-color: rgb(105,92,174);
+}
+
+body button[data-start] {
+    font-size: 20px;
+    height: 35px;
+    width: 80px;
+    text-align: center;
+    background-color: rgb(189,186,203);
+    color: black;
+    border-radius: 4px;
+    border-color: rgb(105,92,174);
+    cursor: pointer;
+}
+
+.value {
+    font-size: 20px;
+    /* color: rgb(147,140,181); */
+    /* color: rgb(130,120,178); */
+    color: rgb(105,92,174);
+}
+
+.label {
+    font-size: 20px;
+}
