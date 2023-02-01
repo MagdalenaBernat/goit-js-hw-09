@@ -129,7 +129,7 @@
 152C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\@parcel\transformer-raw\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_dump.1133196778680847816 0
 96C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\yaml\dist\resolveSeq-d03cb037.js133196778584946590 0
 131C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\parcel\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\midl.c133196779563335593 0
-55C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\dist133197173369317332 1
+55C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\dist133197367572866587 1
 125C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\@parcel\transformer-css\node_modules\@parcel\utils\test\input133196778949239341 1
 63C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules133196780373628341 1
 162C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\@parcel\reporter-dev-server\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest5.c133196779499526518 0
@@ -422,7 +422,7 @@
 151C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\@parcel\optimizer-svgo\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_drop.c133196779329847279 0
 136C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV2\files\embed\file2.txt133196778590597166 0
 123C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\@parcel\transformer-css\node_modules\@parcel\logger\LICENSE133196778909454316 0
-72C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\src\js\03-promises.js133196773569418552 0
+72C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\src\js\03-promises.js133197371046062245 0
 113C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\parcel\node_modules\lmdb\dependencies\lz4\LICENSE133196779558302949 0
 159C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\@parcel\transformer-js\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_dump.1133196779590026797 0
 133C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\@parcel\resolver-default\node_modules\lmdb\dependencies\lz4\lib\lz4.h133196779211301308 0
@@ -431,7 +431,7 @@
 132C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\@parcel\runtime-service-worker\node_modules\node-addon-api\nothing.c133196778562045996 0
 80C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\fastq\index.d.ts133196778574951723 0
 134C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\@parcel\packager-js\node_modules\@parcel\package-manager\test\fixtures133196779242078514 1
-71C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\src\css\02-timer.css133197182221136432 0
+71C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\src\css\02-timer.css133197297262910133 0
 88C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\parcel\node_modules\lmdb133196779567532606 1
 116C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\@parcel\runtime-js\lib\helpers\browser\css-loader.js133196778583845021 0
 109C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\parcel\node_modules\@parcel\utils\src\path.js133196779575622089 0
@@ -912,7 +912,7 @@
 132C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\@parcel\optimizer-htmlnano\node_modules\@parcel\workers\lib\Trace.js133196779371876572 0
 157C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\@parcel\transformer-babel\node_modules\@parcel\workers\test\integration\workerfarm\logging.js133196778946165635 0
 144C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\@parcel\transformer-json\node_modules\@parcel\utils\test\input\config\config.cjs133196778777006664 0
-66C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\dist\index.html133197173351788448 0
+66C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\dist\index.html133197351526340323 0
 139C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\@parcel\packager-raw\node_modules\@parcel\utils\test\input\config\config.js133196779215980182 0
 82C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\js-tokens\index.js133196778564718354 0
 98C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\caniuse-lite\dist\lib\supported.js133196778617013423 0
@@ -3256,7 +3256,7 @@
 79C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\lodash\round.js133196778618345949 0
 79C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\chalk\readme.md133196778569109119 0
 161C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\@parcel\runtime-browser-hmr\node_modules\@parcel\package-manager\test\fixtures\packages\peers-2.0133196779152726134 1
-81C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\dist\02-timer.d073afb2.css.map133197173369307351 0
+81C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\dist\02-timer.d073afb2.css.map133197351527690121 0
 114C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\caniuse-lite\data\features\alternate-stylesheet.js133196778581675790 0
 85C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\.bin\browserslist.cmd133196779778941416 0
 80C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\readdirp\LICENSE133196778562342604 0
@@ -11059,7 +11059,7 @@
 128C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\@parcel\transformer-react-refresh-wrap\node_modules\lmdb\open.js133196778680477742 0
 150C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\@parcel\runtime-browser-hmr\node_modules\@parcel\hash\parcel-hash.linux-arm64-gnu.node133196779192216299 0
 133C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\@parcel\transformer-react-refresh-wrap\node_modules\lmdb\package.json133196778680835028 0
-85C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\dist\01-color-switcher.52e3b619.js133197173351701067 0
+85C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\dist\01-color-switcher.52e3b619.js133197351527513902 0
 137C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\@parcel\transformer-react-refresh-wrap\node_modules\lmdb\rollup.config.js133196778680637107 0
 125C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\@parcel\transformer-react-refresh-wrap\node_modules\lmdb\util133196778680667032 1
 140C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\@parcel\packager-css\node_modules\@parcel\utils\test\input\config\empty.toml133196779323930871 0
@@ -11756,7 +11756,7 @@
 138C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\@parcel\transformer-raw\node_modules\@parcel\utils\test\objectHash.test.js133196778688372185 0
 140C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\@parcel\transformer-raw\node_modules\@parcel\utils\test\prettifyTime.test.js133196778688522152 0
 140C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\@parcel\transformer-raw\node_modules\@parcel\utils\test\PromiseQueue.test.js133196778688939173 0
-77C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\dist\02-timer.d073afb2.css133197173369269857 0
+77C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\dist\02-timer.d073afb2.css133197351527612612 0
 151C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\@parcel\transformer-raw\node_modules\@parcel\utils\test\replaceBundleReferences.test.js133196778689196567 0
 137C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\@parcel\transformer-raw\node_modules\@parcel\utils\test\sourcemap.test.js133196778689361705 0
 90C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\@babel\highlight\README.md133196778563540600 0
@@ -17303,7 +17303,7 @@
 147C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\@parcel\packager-svg\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest2.c133196779205810762 0
 136C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\@parcel\optimizer-svgo\node_modules\@parcel\diagnostic\src\diagnostic.js133196779342028000 0
 125C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\@parcel\reporter-cli\node_modules\@parcel\utils\src\stream.js133196779556624547 0
-83C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\dist\03-promises.cd58c9ff.js.map133197173351758528 0
+83C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\dist\03-promises.cd58c9ff.js.map133197367572826723 0
 133C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\@parcel\resolver-default\node_modules\@parcel\utils\src\DefaultMap.js133196779158397341 0
 131C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\@parcel\resolver-default\node_modules\@parcel\utils\src\Deferred.js133196779158509218 0
 134C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\@parcel\compressor-raw\node_modules\@parcel\events\src\ValueEmitter.js133196779444995508 0
@@ -18246,7 +18246,7 @@
 121C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\@parcel\packager-svg\node_modules\@parcel\hash\browser.js133196779185878363 0
 120C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\@parcel\packager-js\node_modules\@parcel\fs\src\index.js133196779241046586 0
 124C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\@parcel\packager-svg\node_modules\@parcel\hash\index.js.flow133196779185834356 0
-90C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\dist\01-color-switcher.101ee4ef.css.map133197173351752064 0
+90C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\dist\01-color-switcher.101ee4ef.css.map133197351527215186 0
 134C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\@parcel\packager-js\node_modules\@parcel\utils\src\prettyDiagnostic.js133196779259104124 0
 137C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\@parcel\optimizer-css\node_modules\@parcel\diagnostic\lib\diagnostic.d.ts133196779411478472 0
 140C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\@parcel\packager-svg\node_modules\@parcel\hash\parcel-hash.darwin-arm64.node133196779190869758 0
@@ -20487,7 +20487,7 @@
 145C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\@parcel\optimizer-image\node_modules\@parcel\hash\parcel-hash.win32-x64-msvc.node133196779409937404 0
 123C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\@parcel\core\node_modules\@parcel\workers\lib\childState.js133196779545314467 0
 146C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\@parcel\optimizer-image\node_modules\@parcel\fs-search\fs-search.darwin-arm64.node133196779349290830 0
-89C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\dist\01-color-switcher.52e3b619.js.map133197173351768502 0
+89C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\dist\01-color-switcher.52e3b619.js.map133197351527632555 0
 144C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\@parcel\optimizer-image\node_modules\@parcel\fs-search\fs-search.darwin-x64.node133196779354949235 0
 153C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\@parcel\optimizer-image\node_modules\@parcel\fs-search\fs-search.linux-arm-gnueabihf.node133196779360404723 0
 149C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\@parcel\optimizer-image\node_modules\@parcel\fs-search\fs-search.linux-arm64-gnu.node133196779368716911 0
@@ -22839,15 +22839,15 @@
 77C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\.bin\sass.cmd133196779779337310 0
 77C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\.bin\sass.ps1133196779779337310 0
 77C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\node_modules\.bin\svgo.ps1133196779779337310 0
-86C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\dist\01-color-switcher.101ee4ef.css133197173351638846 0
-78C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\dist\01-color-switcher.html133197173351612967 0
-76C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\dist\02-timer.f9388f03.js133197173351701067 0
-80C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\dist\02-timer.f9388f03.js.map133197173351768502 0
-69C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\dist\02-timer.html133197173351619549 0
-79C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\dist\03-promises.cd58c9ff.js133197173351701067 0
-72C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\dist\03-promises.html133197173351619549 0
-73C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\dist\index.975ef6c8.js133197173351619549 0
-77C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\dist\index.975ef6c8.js.map133197173351708659 0
+86C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\dist\01-color-switcher.101ee4ef.css133197351527025094 0
+78C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\dist\01-color-switcher.html133197351526442113 0
+76C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\dist\02-timer.f9388f03.js133197351527503925 0
+80C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\dist\02-timer.f9388f03.js.map133197351527622581 0
+69C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\dist\02-timer.html133197351526430761 0
+79C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\dist\03-promises.cd58c9ff.js133197367572719989 0
+72C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\dist\03-promises.html133197351526430761 0
+73C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\dist\index.975ef6c8.js133197351527612612 0
+77C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\dist\index.975ef6c8.js.map133197351527700103 0
 83C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\assets\actions-config-step-1.png133196765234903069 0
 83C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\assets\actions-config-step-2.png133196765234945484 0
 68C:\Users\magda\Desktop\PROGRAMOWANIE\goit-js-hw-09\assets\status.png133196765235096838 0
