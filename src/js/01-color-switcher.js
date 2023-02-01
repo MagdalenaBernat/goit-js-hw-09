@@ -10,6 +10,8 @@ function getRandomHexColor() {
 
 let colorChangeInterval; 
 
+stopBtn.disabled = true;
+
 startBtn.addEventListener("click", () => {
     colorChangeInterval = setInterval(() => {
         background.style.backgroundColor = getRandomHexColor();
